@@ -1,0 +1,3 @@
+[safe]
+    directory = /src/ports/espressif/esp-idf
+    directory = /src
